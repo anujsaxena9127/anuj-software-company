@@ -1,0 +1,25 @@
+{
+  "params":
+  {
+    "local_server":"True",
+    "local_uri": "mysql://root:@localhost/anuj",
+    "prod_uri":"mysql://root:@localhost/anuj",
+    "fb_url":"https://www.facebook.com/anuj.kumarsaxena.5",
+    "tw_url":"https://twitter.com/login",
+    "gh_url": "https://github.com/anujsaxena9127",
+    "blog_name": "Anuj  Software Company",
+    "tag_line": "contact us for developing software",
+    "gmail-user":"your-email@gmail.com",
+    "gmail-password":"gmailpassword",
+    "about_text": "Hi myself  Anuj kumar and this blog is created by me for any query contact me ",
+    "no_of_posts": 3,
+    "login_image":"a.jpeg",
+
+    "admin_user":"anuj",
+    "admin_password": "1234",
+    "upload_location":"C:\\Users\\Anuj\\Desktop\\bootsrapflask\\Python-Flask-Blog\\static"
+
+
+  }
+
+}
